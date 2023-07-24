@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there, I'm [Ilya](https://vk.com/r3al1ty_official) ![](https://github.com/R3al1ty1/R3al1ty1/blob/main/header.png) 
+### Computer science student from Russia 🇷🇺
+
+
 
 <!--
 **R3al1ty1/R3al1ty1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
