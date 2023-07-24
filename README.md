@@ -1,5 +1,6 @@
-# Hi there, I'm [Ilya](https://vk.com/r3al1ty_official) ![](https://github.com/R3al1ty1/R3al1ty1/blob/main/emoji-smiley.gif | width=200) 
-### BMSTU Computer science student from Russia 🇷🇺
+<h1 align="center">Hi there, I'm <a href="https://vk.com/r3al1ty_official" target="_blank">Ilya</a> 
+<img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://github.com/R3al1ty1/R3al1ty1/blob/main/emoji-smiley.gif)" width="32" height="32"/></h1>
+<h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
 
 
