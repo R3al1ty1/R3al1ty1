@@ -2,7 +2,7 @@
 <img src="https://github.com/R3al1ty1/R3al1ty1/blob/main/emoji-smiley.gif" width="32" height="32"/></h1>
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3al1ty1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **R3al1ty1/R3al1ty1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
