@@ -1,5 +1,5 @@
-# ![](https://github.com/R3al1ty1/R3al1ty1/blob/main/header.png) 
-### Computer science student from Russia 🇷🇺
+# # Hi there, I'm [Ilya](https://vk.com/r3al1ty_official) ![](https://tenor.com/ru/view/emoji-smiley-wave-hi-hello-gif-17334424) 
+### BMSTU Computer science student from Russia 🇷🇺
 
 
 
