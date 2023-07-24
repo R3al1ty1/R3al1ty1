@@ -1,4 +1,4 @@
-# Hi there, I'm [Ilya](https://vk.com/r3al1ty_official) ![](https://github.com/R3al1ty1/R3al1ty1/blob/main/emoji-smiley.gif) 
+# Hi there, I'm [Ilya](https://vk.com/r3al1ty_official) ![](https://github.com/R3al1ty1/R3al1ty1/blob/main/emoji-smiley.gif = 25x25) 
 ### BMSTU Computer science student from Russia 🇷🇺
 
 
