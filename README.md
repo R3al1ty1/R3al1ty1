@@ -4,6 +4,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3al1ty1&theme=city_lights)
 
-- 🔭 I’m currently working on CribFinder
+- 🔭 I’m currently working on CribFinder and EmailChecker
 - 🌱 I’m currently learning Flask framework along with JS
 - 📫 How to reach me: me@ikworkmail.ru
