@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on CribFinder and EmailChecker
 - 🌱 I’m currently learning Flask framework along with JS
-- 📫 How to reach me: me@ikworkmail.ru
+- 📫 How to reach me: me@ikworkmail.ru or https://t.me/pepes_official
