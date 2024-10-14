@@ -4,6 +4,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3al1ty1&theme=city_lights)
 
-- 🔭 I’m currently working on CribFinder, EmailChecker and Bankings apps.
-- 🌱 I’m currently learning Django framework along with TypeScript.
-- 📫 How to reach me: me@ikworkmail.ru or https://t.me/pepes_official
+- 🔭 I’m currently working on CribFinder and Bankings apps.
+- 🌱 I keep improving my Django skills along with other Python libs.
+- 📫 How to reach me: me@ikworkmail.ru or [Telegram](https://t.me/ba1xo)
