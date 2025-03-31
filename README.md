@@ -4,6 +4,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3al1ty1&theme=city_lights)
 
-- 🔭 I’m currently working on CribFinder and Bankings apps.
-- 🌱 I keep improving my Django skills along with other Python libs.
+- 🐳 I’m currently working on Articles Containers and DB-Handler.
+- 💻 I keep improving my FastAPI skills along with other Python libs.
 - 📫 How to reach me: me@ikworkmail.ru or [Telegram](https://t.me/ba1xo)
+
+![Codewars](https://github.r2v.ch/codewars?user=baixo&stroke=%23BB432C)
